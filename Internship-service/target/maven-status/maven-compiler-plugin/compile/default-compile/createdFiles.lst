@@ -1,0 +1,10 @@
+com\motaz\internshipservice\controller\InternshipController.class
+com\motaz\internshipservice\model\Intern$InternBuilder.class
+com\motaz\internshipservice\dto\InternRequest$InternRequestBuilder.class
+com\motaz\internshipservice\dto\InternRequest.class
+com\motaz\internshipservice\service\InternshipService.class
+com\motaz\internshipservice\dto\InternResponse$InternResponseBuilder.class
+com\motaz\internshipservice\InternshipServiceApplication.class
+com\motaz\internshipservice\model\Intern.class
+com\motaz\internshipservice\repository\InternshipRepository.class
+com\motaz\internshipservice\dto\InternResponse.class

@@ -1,0 +1,10 @@
+com\motaz\employeeservice\model\Employee.class
+com\motaz\employeeservice\EmployeeServiceApplication.class
+com\motaz\employeeservice\repository\EmployeeRepository.class
+com\motaz\employeeservice\controller\EmployeeController.class
+com\motaz\employeeservice\dto\EmployeeRequest$EmployeeRequestBuilder.class
+com\motaz\employeeservice\dto\EmployeeRequest.class
+com\motaz\employeeservice\model\Employee$EmployeeBuilder.class
+com\motaz\employeeservice\service\EmployeeService.class
+com\motaz\employeeservice\dto\EmployeeResponse.class
+com\motaz\employeeservice\dto\EmployeeResponse$EmployeeResponseBuilder.class
